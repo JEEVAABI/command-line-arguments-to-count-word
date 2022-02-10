@@ -39,6 +39,7 @@ for data in fp:
     for i in l:
         count+=1
 print("No. of words in the file:",count)
+```
 
 ### OUTPUT:
 ![output](pyyy.png)
